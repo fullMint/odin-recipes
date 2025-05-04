@@ -1,1 +1,2 @@
-# odin-recipes
+# Listed are recipes for filipino dishes passed down to me from my mom.
+# At the end of this project, I would have demonstrated how to create a simple webpage using various HTML elements such as headers, paragraphs, images, links, etc.
